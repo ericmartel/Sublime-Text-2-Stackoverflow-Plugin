@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Stackoverflow: Search Selection",
+        "command": "stackoverflow_search_selection"
+    },
+    {
+        "caption": "Stackoverflow: Search from Input",
+        "command": "stackoverflow_search_from_input"
+    }
+]

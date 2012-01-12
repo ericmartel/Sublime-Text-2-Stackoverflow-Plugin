@@ -1,0 +1,7 @@
+Very simple search on Stack Overflow by Eric Martel (emartel@gmail.com / www.ericmartel.com)
+
+Please direct any feedback to emartel@gmail.com or through github at https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin.
+
+Thank you for your support.
+
+Eric Martel

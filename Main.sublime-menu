@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Stack Overflow",
+                "mnemonic": "f",
+                "id": "stackoverflow",
+                "children":
+                [
+                    {
+                        "command": "stackoverflow_search_selection",
+                        "caption": "Search Selection"
+                    },
+                    {
+                        "command": "stackoverflow_search_from_input",
+                        "caption": "Search From Input"
+                    }
+                ]
+            }
+        ]
+    }
+]
