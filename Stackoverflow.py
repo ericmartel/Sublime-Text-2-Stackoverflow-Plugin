@@ -14,7 +14,7 @@ import subprocess
 import webbrowser
 
 def SearchFor(text):
-    url = 'http://stackoverflow.com/search?tab=relevance&q=' + text.replace(' ','%20')
+    url = 'https://stackoverflow.com/search?tab=relevance&q=' + text.replace(' ','%20')
     webbrowser.open_new_tab(url)
 
 class StackoverflowSearchSelectionCommand(sublime_plugin.TextCommand):
